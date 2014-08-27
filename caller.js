@@ -1,7 +1,7 @@
 var callgraph = require('./main');
 
 
-var dir = '../Ngprima/**/*.js';
+var dir = '../Ngprima/codequery/*.js';
 
 
 callgraph.process(dir);

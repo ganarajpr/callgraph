@@ -6,7 +6,8 @@ var callsite = require('./lib/callsite');
 
 var files = [];
 var esprimaOptions = {
-    tolerant : true
+    tolerant : true,
+    loc : true
 
 };
 
