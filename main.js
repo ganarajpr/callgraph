@@ -27,7 +27,7 @@ function storeFile(file){
             });
         }
         catch(c){
-            console.warn(file.path);
+            //console.warn(file.path);
         };
 
     }
