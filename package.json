@@ -1,0 +1,22 @@
+{
+    "name": "callgraph",
+    "version": "0.0.1",
+    "description": "A library that generates call graph from a set of javascript files",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "callgraph",
+        "ast",
+        "esprima"
+    ],
+    "dependencies":{
+        "ast-types": "~0.4.9",
+        "esprima" : "~1.2.2",
+        "vinyl-fs": "~0.3.6",
+        "map-stream" : "~0.1.0"
+    },
+    "author": "Ganaraj",
+    "license": "MIT"
+}
