@@ -16,7 +16,8 @@
         "esprima" : "~1.2.2",
         "vinyl-fs": "~0.3.6",
         "map-stream" : "~0.1.0",
-        "lodash": "~2.4.1"
+        "lodash": "~2.4.1",
+        "resolve": "~1.0.0"
     },
     "author": "Ganaraj",
     "license": "MIT"
