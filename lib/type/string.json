@@ -1,0 +1,12 @@
+{
+    name : "String",
+    property : [
+        {
+            name : "length",
+            type : "Number"
+        },
+        {
+
+        }
+    ]
+}
